@@ -1,0 +1,25 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/tree-view/ControlledTreeView.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "@material-ui/lab": "latest",
+    "classnames": "2.2.6",
+    "lodash": "4.17.20",
+    "prop-types": "15.7.2",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "name": "material-demo-forked",
+  "version": "0.0.433",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
